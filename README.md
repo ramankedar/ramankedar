@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 -->
 
+
 ![Views Counter](https://komarev.com/ghpvc/?username=ramankedar&color=blue)
 
 
@@ -37,13 +38,11 @@ Here are some ideas to get you started:
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 
-<h3 align="right">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://github-readme-stats.vercel.app/api?username=ramankedar&show_icons=true&theme=github_dark&hide=prs,issues" /></a>
-  </p>
-
-<p align="right">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ramankedar&show_icons=true&theme=github_dark&hide=prs,issues" />
+</a>
+<h3 align="center">Connect with me on:</h3>
+<p align="center">
 <a href="https://twitter.com/_BirdPerson__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Raman" height="25" width="35" /></a>
 <a href="https://www.linkedin.com/in/raman-kedar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raman" height="25" width="35" /></a>
 </p> <br>
