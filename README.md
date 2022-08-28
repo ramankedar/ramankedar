@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=ramankedar&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=ramankedar&color=blue)
 
-[![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramankedar&show_icons=true&theme=nightowl&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramankedar&show_icons=true&theme=github_dark&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
