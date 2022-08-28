@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-![](https://komarev.com/ghpvc/?username=ramankedar&color=blue)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ramankedar&show_icons=true&theme=github_dark&hide=prs,issues"/>
@@ -23,3 +20,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramankedar&layout=compact&langs_count=4&html=ff2244&" />
 </a>
+
+-->
+
+![](https://komarev.com/ghpvc/?username=ramankedar&color=blue)
+
+![](https://github-readme-stats.vercel.app/api?username=ramankedar&show_icons=true&theme=github_dark&hide=prs,issues)
