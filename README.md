@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=ramankedar&color=blue)
 
-[![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramankedar&show_icons=true&theme=github_dark&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramankedar&layout=compact&hide=C#)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"](https://github-readme-stats.vercel.app/api?username=ramankedar&show_icons=true&theme=github_dark&hide=prs,issues"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramankedar&layout=compact&hide=C#" />
+</a>
