@@ -46,6 +46,9 @@ Here are some ideas to get you started:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
+
+<!-- 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ramankedar&show_icons=true&theme=github_dark&hide=prs,issues" />
 </a>
@@ -56,3 +59,5 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/_BirdPerson__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Raman" height="25" width="35" /></a>
 <a href="https://www.linkedin.com/in/raman-kedar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raman" height="25" width="35" /></a>
 </p> <br>
+
+-->
