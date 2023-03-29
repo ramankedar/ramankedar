@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I'm Raman
+#### A Data Science enthusiast
 
 <!--
 **ramankedar/ramankedar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,12 +54,17 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ramankedar&show_icons=true&theme=github_dark&hide=prs,issues" />
 </a>
 
-<h3 align="center">Connect with me on:</h3>
 <p align="center">
+<h3>Connect with me on:</h3>
 
-<a href="https://twitter.com/_BirdPerson__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Raman" height="25" width="35" /></a>
-<a href="https://www.linkedin.com/in/raman-kedar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raman" height="25" width="35" /></a>
-<a href="https://instagram.com/_ramankedar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ramankedar_" height="25" width="35" /></a>
+<a href="https://www.linkedin.com/in/raman-kedar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raman" height="30" width="40" /></a>
+<a href="https://twitter.com/_BirdPerson__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Raman" height="30" width="40" /></a>
+<a href="https://instagram.com/_ramankedar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ramankedar_" height="30" width="40" /></a>
+<a href="https://fb.com/ramankedarjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramankedarjr" height="30" width="40" /></a>
+<a href="https://discord.gg/#4563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4563" height="30" width="40" /></a>
 </p> <br>
 
+<!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramankedar&" alt="ramankedar" /></p>
+-->
 
