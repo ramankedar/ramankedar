@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
 
-<a href="https://twitter.com/_BirdPerson__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Raman" height="25" width="35" /></a>
+<a href="https://twitter.com/_BirdPerson__" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Raman" height="25" width="35" /></a>
 <a href="https://www.linkedin.com/in/raman-kedar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raman" height="25" width="35" /></a>
 </p> <br>
 
